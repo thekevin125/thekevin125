@@ -12,9 +12,9 @@
 🎓 DESARROLLADOR DE SOFWARE 
 
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 poca experiencia en un futuro aprender mas
 
-📝 roles en el ámbito: desarrollador... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... arquitecto... cofundador... emprendedor.. y en un futuro quién sabe ☺️
 
 📫 Contacto: **thekevincaldon@gmail.com**
 <!--Intro end-->
