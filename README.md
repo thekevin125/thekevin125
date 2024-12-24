@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy kevin lopez / unsimpleDev ✨ </h1> 
 
 
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://www.linkedin.com/in/kevin-nn-4961a232a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
   </p>
 <br>
